@@ -47,12 +47,9 @@ public class Main {
             e.printStackTrace();
         }
 
-
         long finish1 = System.currentTimeMillis();
 
         System.out.println("Метод 2: " + (finish1-start1) + "мс");
-
-
 
     }
 }
